@@ -1,0 +1,16 @@
+{
+  "zip_sha256": "84bc48f1fe7631e52c431b6da117b2f55bf2fbbfa5f9c150757c2818f53f9a78",
+  "readme_sha256": "e09dca3d738e17cdbcdcc4165d73c4776673bc301eef83fbafa374b64aa9523e",
+  "data_xlsx_sha256": "6ad935224d7fff3da5afaea3dfc0d98df9f6fdd63f7cb3a4773b5b5ba104b698",
+  "transactions_xlsx_sha256": "d005d11418732425cf0aa712d8eca9d70357493f166135b9aca991712960d42d",
+  "data_rows": 17521,
+  "transaction_rows": 1581,
+  "time_min": "2022-01-01 00:00:00+00:00",
+  "time_max": "2024-01-01 00:00:00+00:00",
+  "duplicate_times": 0,
+  "hourly_cadence_non1h_intervals": 0,
+  "negative_evse_values": 0,
+  "positive_pv_wh_values": 0,
+  "last_nonmissing_pv_time": "2023-11-22 06:00:00+00:00",
+  "battery_monitoring": "README states 30-kWh Kiwatt Power Pack with 15-kW inverter was not monitored"
+}

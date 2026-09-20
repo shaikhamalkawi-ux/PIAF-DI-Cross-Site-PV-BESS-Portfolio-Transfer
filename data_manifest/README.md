@@ -1,5 +1,10 @@
-# Data Manifest
+# Data manifest
 
-This directory is for source identities, licences, checksums, acquisition notes, and admission rules.
+`SOURCE_LOCKS.csv` records source identity, checksum, and redistribution status.
+Raw third-party data are intentionally excluded from this public repository.
+Users obtain the files from the cited repositories and verify the recorded
+hashes before replay.
 
-Do not upload raw or restricted datasets to this public repository unless their licence and author release status have been verified.
+`MISSING_LINEAGE.md` records the specific historical artifacts that were not
+available to the clean-room run. Missing objects are reported as `HOLD`; no
+nearby archive is substituted as if it were the same lineage.

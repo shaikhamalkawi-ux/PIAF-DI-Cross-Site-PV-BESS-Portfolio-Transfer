@@ -1,0 +1,37 @@
+family,target,transferred_loss_pct,local_floor_pct,selection_excess_pp,same_budget_percentile_pct,route_at_descriptive_5pct
+Norway,ASK,0.236,0.048,0.188,99.66,Proceed
+Norway,BAR,1.286,0.373,0.913,99.64,Proceed
+Norway,BAR_2,2.267,1.544,0.7229999999999999,99.94,Proceed
+Norway,BER,4.218,0.744,3.474,98.83,Proceed
+Norway,BOD,3.214,1.939,1.275,99.83,Proceed
+Norway,KRO,2.562,1.129,1.4329999999999998,99.61,Proceed
+Norway,OSL_1,0.228,0.0,0.228,98.0,Proceed
+Norway,OSL_2,1.513,1.513,0.0,99.98,Proceed
+Norway,OSL_S,0.39,0.027,0.363,99.66,Proceed
+Norway,OSL_T,1.549,0.578,0.971,99.64,Proceed
+Norway,TRO,0.875,0.651,0.22399999999999998,99.81,Proceed
+Norway,TRO_R,1.291,0.334,0.9569999999999999,99.64,Proceed
+Boulder >=30 d,AIRPORT ST1,1.97,1.102,0.8679999999999999,99.83,Proceed
+Boulder >=30 d,ALPINE ST1,21.469,9.274,12.195000000000002,99.26,Expand candidate space first
+Boulder >=30 d,ATRIUM ST1,31.72,5.717,26.003,78.06,Expand candidate space first
+Boulder >=30 d,BASELINE ST1,8.441,4.722,3.7190000000000003,99.73,Reselect locally
+Boulder >=30 d,BOULDER PARK S1,16.809,7.387,9.422,99.66,Expand candidate space first
+Boulder >=30 d,BOULDER PARK S2,16.074,8.109,7.965000000000002,99.13,Expand candidate space first
+Boulder >=30 d,CARPENTER PARK1,13.159,2.92,10.239,88.71,Reselect locally
+Boulder >=30 d,CARPENTER PARK2,6.749,2.687,4.061999999999999,99.35,Reselect locally
+Boulder >=30 d,EAST REC,30.137,11.047,19.09,95.89,Expand candidate space first
+Boulder >=30 d,FACILITIES ST1,19.837,13.119,6.718,96.59,Expand candidate space first
+Boulder >=30 d,JUNCTION ST1,43.994,14.323,29.671,88.46,Expand candidate space first
+Boulder >=30 d,N BOULDER REC 1,5.328,3.959,1.3690000000000002,99.81,Reselect locally
+Boulder >=30 d,REC CENTER ST1,12.601,7.903,4.698000000000001,97.03,Expand candidate space first
+Boulder >=30 d,REC CENTER ST2,23.791,11.858,11.933,88.84,Expand candidate space first
+Boulder >=30 d,RESERVOIR ST1,10.337,5.019,5.318,98.1,Expand candidate space first
+Boulder >=30 d,BOULDERJUNCTION / JUNCTION ST1,36.646,20.511,16.135,95.3,Expand candidate space first
+Boulder >=30 d,1000WALNUT1,20.245,3.619,16.626,86.88,Reselect locally
+Boulder >=30 d,1000WALNUT2,26.249,7.371,18.878,90.29,Expand candidate space first
+Boulder >=30 d,1100WALNUT1,18.621,2.688,15.932999999999998,86.88,Reselect locally
+Boulder >=30 d,1104 SPRUCE1,20.751,2.519,18.232,86.88,Reselect locally
+Boulder >=30 d,1400 WALNUT1,9.687,3.027,6.659999999999999,96.89,Reselect locally
+Boulder >=30 d,1500PEARL1,16.642,5.871,10.770999999999999,90.59,Expand candidate space first
+Boulder >=30 d,1500PEARL2,16.119,3.945,12.174,90.55,Reselect locally
+Boulder >=30 d,BOULDER JCTN,22.881,8.1,14.781,90.53,Expand candidate space first

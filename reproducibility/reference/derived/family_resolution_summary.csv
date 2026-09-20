@@ -1,0 +1,5 @@
+grid,family,median_transferred_loss_pct,median_local_floor_pct,median_selection_excess_pp
+3x3,Norway,0.190,0.072,0.113
+3x3,Boulder >=30 d,3.233,0.898,2.294
+5x5,Norway,1.402,0.614,0.818
+5x5,Boulder >=30 d,17.715,5.794,11.352

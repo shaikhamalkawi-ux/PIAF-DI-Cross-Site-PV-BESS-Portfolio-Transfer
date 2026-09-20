@@ -17,8 +17,13 @@ No new scientific version is justified unless a reproducible source/model/numeri
 - Norway/Boulder inherited branch: retained
 - Dingle inherited branch: retained
 - SlimPark manuscript/supplement integration: retained
-- Full R6R8 source-to-result replay: HOLD pending executable/source reconstruction or recovery
-- Final R6R8 clean source/package QA: HOLD
+- Historical v24 Norway independent verifier: PASS (maximum difference `3.47e-16`)
+- Dingle raw-source replay, all primary/sensitivity tables: PASS
+- SlimPark official raw-source replay, all primary/sensitivity tables: PASS
+- Reconstructed R6R8 source and clean-build render parity: PASS
+- PDF references/fonts/all-page visual QA: PASS
+- Full R6R7/R6R8 aggregate `1,317 / 507 / 342` claim replay: HOLD (machine objects absent)
+- Final clean-room package integrity: PASS, with explicit lineage HOLD
 - JEST submission-ready label: HOLD
 
 ## Production-only fixes already identified

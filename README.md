@@ -29,3 +29,15 @@ https://drive.google.com/drive/folders/125rI_3FaZh3rKqsxCnIazTk9npJGETPe
 This repository is currently **public**. Do not commit unpublished manuscript PDFs, restricted/raw datasets, author-private metadata, or controlled source archives here until the repository visibility is changed or the authors explicitly approve public release.
 
 Public-safe reproducibility material can be added after audit and source-licence review.
+
+## Clean-room closure status
+
+The public-safe Dingle and SlimPark replay implementations, locked derived
+tables, source manifests, figure builder, and QA utilities are now present on
+`codex/r6r8-clean-room`. Both measured-input branches replay successfully and
+the reconstructed manuscript source passes clean-build/render QA.
+
+The controlled return remains **HOLD for submission** because the historical
+R6R7 binaries and the machine objects behind the aggregate 1,317/507/342
+verification claim were not available. See `STATUS.md` and
+`data_manifest/MISSING_LINEAGE.md`. No Zenodo release has been created.

@@ -1,0 +1,4 @@
+subset,pv_scale_mode,pv_scale,complete_active_days,cal_days,hold_days,first_admitted_day,last_admitted_day,cal_ev_kwh,cal_pv_kwh_native,hold_ev_kwh,hold_pv_kwh_native
+all9,native,1,514,359,155,2022-05-24,2023-11-21,50068.5122318,21284.891062,15289.1330601,9144.50178
+first4,native,1,514,359,155,2022-05-24,2023-11-21,22654.9546496,21284.891062,8804.77268803,9144.50178
+all9,energy_matched,2.35230295922,514,359,155,2022-05-24,2023-11-21,50068.5122318,21284.891062,15289.1330601,9144.50178
