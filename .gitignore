@@ -1,0 +1,33 @@
+# Local / temporary
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Large or controlled research artifacts
+*.zip
+*.7z
+*.tar
+*.gz
+*.h5
+*.hdf5
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.nc
+
+# Manuscript binaries kept in controlled Drive until public release
+*.pdf
+*.docx
+*.pptx
+
+# Secrets / local config
+.env
+.env.*
+secrets/
+credentials*
