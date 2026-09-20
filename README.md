@@ -40,4 +40,7 @@ the reconstructed manuscript source passes clean-build/render QA.
 The controlled return remains **HOLD for submission** because the historical
 R6R7 binaries and the machine objects behind the aggregate 1,317/507/342
 verification claim were not available. See `STATUS.md` and
-`data_manifest/MISSING_LINEAGE.md`. No Zenodo release has been created.
+`data_manifest/MISSING_LINEAGE.md`. The exact locked Dingle outer ZIP was
+recovered and independently integrity-checked, so that source gate is now
+PASS. The rebuilt manuscript uses embedded Type 42/CID TrueType figure fonts
+and contains no Type 3 fonts. No Zenodo release has been created.

@@ -7,6 +7,8 @@ Public QA utilities:
 - `build_sha256_manifest.py` creates stable manifests for release staging.
 - `compare_rendered_pages.py` checks clean-build PDF render parity pixel by
   pixel after Poppler rendering.
+- `check_pdf_fonts.py` runs `pdffonts` and fails if a PDF contains a Type 3
+  font or a font that is not embedded.
 
 The controlled return package contains the run-specific QA report, replay
 report, verification CSVs, page-render inspection record, and package hashes.

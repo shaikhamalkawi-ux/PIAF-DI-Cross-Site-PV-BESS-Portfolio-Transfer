@@ -12,6 +12,15 @@ hashes were supplied in the project instructions:
 
 The source machine files behind the later 1,317 reference target-budget rows,
 507 dense-grid MILP checks, and 342 coarse-grid enumeration checks were also
-absent. The run therefore records these gates as `HOLD`. The authenticated v24
+absent after searches of the controlled Google Drive workspace, the local
+project workspace, sibling project folders, and available historical ZIPs.
+The run therefore records this aggregate gate as `HOLD`. The authenticated v24
 archive is retained and independently verifies its own Norway branch, but it is
 not represented as a byte-identical substitute for missing R6R7/R6R8 objects.
+
+The Dingle outer source ZIP is no longer missing. An authenticated local copy
+matches the locked SHA-256
+`5ec52a61851936b5b9a537c3565863d7c1cbaa5271e0fce3a02e61703bf76beb`,
+passes ZIP CRC over all 25 members, and has byte-identical members to a fresh
+official version-7 download. It remains excluded from this public repository
+and is returned only through the controlled private workspace.

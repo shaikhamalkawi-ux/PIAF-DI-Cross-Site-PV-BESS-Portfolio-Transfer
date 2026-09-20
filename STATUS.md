@@ -19,12 +19,14 @@ No new scientific version is justified unless a reproducible source/model/numeri
 - SlimPark manuscript/supplement integration: retained
 - Historical v24 Norway independent verifier: PASS (maximum difference `3.47e-16`)
 - Dingle raw-source replay, all primary/sensitivity tables: PASS
+- Dingle locked outer ZIP (`5ec52a...beb`) recovery and CRC: PASS
 - SlimPark official raw-source replay, all primary/sensitivity tables: PASS
 - Reconstructed R6R8 source and clean-build render parity: PASS
-- PDF references/fonts/all-page visual QA: PASS
+- PDF references/fonts/all-page visual QA: PASS (zero Type 3 fonts)
 - Full R6R7/R6R8 aggregate `1,317 / 507 / 342` claim replay: HOLD (machine objects absent)
 - Final clean-room package integrity: PASS, with explicit lineage HOLD
 - JEST submission-ready label: HOLD
+- Zenodo release: NOT RUN
 
 ## Production-only fixes already identified
 1. Shorten the abstract without changing scientific content.

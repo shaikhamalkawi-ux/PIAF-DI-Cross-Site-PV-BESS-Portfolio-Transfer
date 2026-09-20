@@ -12,6 +12,8 @@ import pandas as pd
 
 def style() -> None:
     plt.rcParams.update({
+        "pdf.fonttype": 42,
+        "ps.fonttype": 42,
         "font.size": 9,
         "axes.titlesize": 10,
         "axes.labelsize": 9,
