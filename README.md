@@ -49,7 +49,16 @@ CC BY 4.0 to applicable author-owned documentation and contributions, and
 CC BY-NC-SA 4.0 to the scoped SlimPark-derived material. These are component
 licences, not alternatives for the entire package. See `LICENSES.md`.
 
-A verified [Zenodo draft](https://zenodo.org/uploads/22894501) now exists with
-reserved DOI `10.5281/zenodo.22894501`. **It is not yet published**; do not cite
-the reserved identifier as a publicly available archive. Final public
-publication confirmation and author-controlled submission items remain open.
+The approved archive was **published on 22 September 2026** on
+[Zenodo](https://zenodo.org/records/22894501). Its version DOI
+[10.5281/zenodo.22894501](https://doi.org/10.5281/zenodo.22894501) resolves to
+the public record. See `CITATION.cff` for the archive citation. The deposited
+V04R2 reproducibility archive supports the current JEST V05 manuscript;
+these version labels describe different artifacts, not different science.
+
+The DOI-only V05 manuscript rebuild passes technical QA (32-page Main,
+12-page Supplement, 44-page combined PDF), including clean-extracted source
+compilation, numerical/source parity and all-page visual review. Controlled
+submission and new-page-transfer packages are returned through Drive.
+Final independent review and author-controlled journal-submission items remain
+separate from Zenodo publication; publication is not a submission-ready claim.

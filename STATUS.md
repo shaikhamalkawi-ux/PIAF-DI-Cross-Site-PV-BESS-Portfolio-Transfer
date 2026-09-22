@@ -33,15 +33,18 @@ No new scientific version is justified unless a reproducible source/model/numeri
 - PDF references/fonts/all-page visual QA: PASS (zero Type 3 fonts)
 - Final clean-room package integrity: PASS
 - Scientific/reproducibility blockers: **NONE**
-- Remaining closure items: Zenodo/permanent repository DOI and author-controlled submission metadata
+- Remaining closure items: return upload verification and independent/author-controlled submission review
 - Public archive V04R2 component-licence correction: PASS
 - V04R2 science parity, ZIP CRC, and complete SHA manifests: PASS
 - V04R2 clean global replay: PASS (1,317 rows / 507 MILP / 342 enumeration)
-- Zenodo draft: SAVED, record `22894501`
-- Reserved DOI: `10.5281/zenodo.22894501` (not registered/published yet)
+- Zenodo record: **PUBLISHED**, record `22894501`, 22 September 2026
+- Version DOI: [10.5281/zenodo.22894501](https://doi.org/10.5281/zenodo.22894501), public resolution PASS
 - Zenodo uploaded ZIP MD5 matches local: PASS
-- Zenodo publication: pending final action-time browser confirmation, not a licence HOLD
-- JEST submission-ready label: HOLD only for archival/author-controlled closure
+- Zenodo publication: completed after the user's explicit confirmation for the approved draft
+- V05 published-DOI-only rebuild: PASS, 32/12/44 pages, no Type 3 fonts, no overfull or undefined references/citations
+- V05 source/numeric parity and all-page visual review: PASS
+- Exact returned V05 source ZIP clean-extracted compile: PASS, pagewise text parity on all 44 pages
+- JEST submission-ready label: pending independent review and author-controlled closure
 
 ## Recovered authoritative machine evidence
 The aggregate 1,317 / 507 / 342 verification claim is backed by the exact retained historical archive:
@@ -56,9 +59,9 @@ Its internal SHA manifest passed 104/104 before execution. Its frozen developmen
 Google Drive:
 https://drive.google.com/drive/folders/125rI_3FaZh3rKqsxCnIazTk9npJGETPe
 
-## V04R2 licence correction and draft
+## V04R2 licence correction and publication
 
-Draft: https://zenodo.org/uploads/22894501
+Published record: https://zenodo.org/records/22894501
 
 Uploaded file: `R6R8_PUBLIC_REPRODUCIBILITY_LICENSE_CORRECTED_V04R2_20260922.zip`
 
@@ -77,7 +80,14 @@ ShareAlike conditions are preserved for the SlimPark-derived components.
 The source's consultation request remains documented, but no consultation or
 endorsement is claimed. Commercial downstream reuse is not pre-cleared.
 
-The draft preview verifies the approved creator order: Ghassan Malkawi,
+The published record verifies the approved creator order: Ghassan Malkawi,
 Ahmed Elsayed, Mohammed Alhagyan, Bakeel Hussein. The three licence labels
-are accompanied by explicit component scopes. Main and Supplement have not
-been patched with an unpublished DOI. R6R8 remains the scientific baseline.
+are accompanied by explicit component scopes. The authoritative V05 Main
+and Supplement now include the published DOI; only their two archival
+availability paragraphs changed. The other seven source files and all
+scientific numerical tokens remain unchanged. R6R8 remains the baseline.
+
+The Supplement's non-fatal line-193 glue-shrinkage diagnostic is reproduced
+by the unchanged V05 baseline and documented in controlled QA. All affected
+pages are visually clean; this is not a zero-warning claim. The original
+funding/APC statement is preserved, not newly approved by Codex.
