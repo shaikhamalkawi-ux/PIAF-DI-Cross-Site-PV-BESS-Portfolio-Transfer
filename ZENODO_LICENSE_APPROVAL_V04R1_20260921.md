@@ -1,5 +1,11 @@
 # Author approval — Zenodo licence and release path
 
+> **Historical V04R1 approval record.** The MIT/CC BY approval below remains
+> applicable to author-owned material; it did not waive third-party terms. The
+> scoped SlimPark correction is recorded in
+> `ZENODO_LICENSE_CORRECTION_V04R2_20260922.md`, `LICENSES.md`, and
+> `COMPONENT_LICENSE_MAP.csv`.
+
 The author explicitly approves the licence plan for PIAF-DI Paper B V04R1:
 
 - **MIT License** for the authors' original software/code.

@@ -37,10 +37,19 @@ tables, source manifests, figure builder, and QA utilities are now present on
 `codex/r6r8-clean-room`. Both measured-input branches replay successfully and
 the reconstructed manuscript source passes clean-build/render QA.
 
-The controlled return remains **HOLD for submission** because the historical
-R6R7 binaries and the machine objects behind the aggregate 1,317/507/342
-verification claim were not available. See `STATUS.md` and
-`data_manifest/MISSING_LINEAGE.md`. The exact locked Dingle outer ZIP was
-recovered and independently integrity-checked, so that source gate is now
-PASS. The rebuilt manuscript uses embedded Type 42/CID TrueType figure fonts
-and contains no Type 3 fonts. No Zenodo release has been created.
+The historical R6R7/R6R8 lineage and the machine objects behind the aggregate
+1,317/507/342 verification claim have been recovered and independently
+replayed. See `STATUS.md` for the current closure evidence; older missing-lineage
+reports are historical. The exact locked Dingle outer ZIP also passes its
+source-integrity gate. The rebuilt manuscript has no Type 3 fonts.
+
+The V04R2 public archive corrects component licensing without changing locked
+scientific values or executable calculations. MIT applies to original software,
+CC BY 4.0 to applicable author-owned documentation and contributions, and
+CC BY-NC-SA 4.0 to the scoped SlimPark-derived material. These are component
+licences, not alternatives for the entire package. See `LICENSES.md`.
+
+A verified [Zenodo draft](https://zenodo.org/uploads/22894501) now exists with
+reserved DOI `10.5281/zenodo.22894501`. **It is not yet published**; do not cite
+the reserved identifier as a publicly available archive. Final public
+publication confirmation and author-controlled submission items remain open.

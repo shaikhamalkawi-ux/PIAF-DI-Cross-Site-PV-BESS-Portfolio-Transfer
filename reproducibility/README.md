@@ -47,13 +47,19 @@ python reproducibility/slimpark_replay.py \
 
 The ZIP hash must be
 `84bc48f1fe7631e52c431b6da117b2f55bf2fbbfa5f9c150757c2818f53f9a78`.
-Raw workbooks are not redistributed because the source README specifies a
-CC BY-NC-SA licence and asks users to consult the dataset contact before
-sharing transformations.
+Raw workbooks are excluded by this project's public-release boundary.
+SlimPark-derived components retain the source CC BY-NC-SA 4.0 licence,
+attribution, modification notices, and consultation request; see the root
+`LICENSES.md`. The request to consult is retained without claiming that
+consultation occurred or imposing a separate permission condition on the
+standard CC licence.
 
 ## Locked boundary
 
-Both raw measured-input replays pass. The older R6R7 machine-readable objects
-needed to replay the manuscript's aggregate 1,317/507/342 verification claims
-were not supplied. Those claims remain `HOLD`, not silently replaced by the
-historical v24 tables.
+Both raw measured-input replays pass. The original historical machine evidence
+was subsequently recovered and independently replayed: 1,317 target-budget
+rows, 507 dense-grid MILP checks, and 342 coarse-grid enumeration checks pass,
+with maximum discrepancy `4.440892098500626e-16`. The V04R2 sanitized archive
+also passes a fresh clean core replay. See `STATUS.md` for archive integrity
+and draft-deposit status. No historical v24 substitute was used to manufacture
+these counts, and no locked scientific result was changed.

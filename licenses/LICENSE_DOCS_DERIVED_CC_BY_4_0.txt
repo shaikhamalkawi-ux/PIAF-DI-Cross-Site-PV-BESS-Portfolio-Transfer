@@ -1,0 +1,10 @@
+Author-original documentation and non-SlimPark aggregate contributions for which
+the authors hold the relevant rights are licensed under Creative Commons
+Attribution 4.0 International (CC BY 4.0).
+
+https://creativecommons.org/licenses/by/4.0/
+
+This notice does not apply to SlimPark-derived components. Those components
+retain CC BY-NC-SA 4.0 as identified in COMPONENT_LICENSE_MAP.csv and LICENSES.md.
+It also does not apply to third-party raw datasets, which are excluded.
+No source restrictions are waived and no exclusive rights in facts are asserted.

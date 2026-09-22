@@ -34,7 +34,13 @@ No new scientific version is justified unless a reproducible source/model/numeri
 - Final clean-room package integrity: PASS
 - Scientific/reproducibility blockers: **NONE**
 - Remaining closure items: Zenodo/permanent repository DOI and author-controlled submission metadata
-- Zenodo release: NOT RUN
+- Public archive V04R2 component-licence correction: PASS
+- V04R2 science parity, ZIP CRC, and complete SHA manifests: PASS
+- V04R2 clean global replay: PASS (1,317 rows / 507 MILP / 342 enumeration)
+- Zenodo draft: SAVED, record `22894501`
+- Reserved DOI: `10.5281/zenodo.22894501` (not registered/published yet)
+- Zenodo uploaded ZIP MD5 matches local: PASS
+- Zenodo publication: pending final action-time browser confirmation, not a licence HOLD
 - JEST submission-ready label: HOLD only for archival/author-controlled closure
 
 ## Recovered authoritative machine evidence
@@ -49,3 +55,29 @@ Its internal SHA manifest passed 104/104 before execution. Its frozen developmen
 ## Canonical controlled workspace
 Google Drive:
 https://drive.google.com/drive/folders/125rI_3FaZh3rKqsxCnIazTk9npJGETPe
+
+## V04R2 licence correction and draft
+
+Draft: https://zenodo.org/uploads/22894501
+
+Uploaded file: `R6R8_PUBLIC_REPRODUCIBILITY_LICENSE_CORRECTED_V04R2_20260922.zip`
+
+- Size: 783,168 bytes
+- SHA-256: `4017d7a3107832ef20deb54041dbc9663e73f3c774818e9c8978ff9264799e18`
+- Local and Zenodo MD5: `bc875f22ebebe6aab7f7ae0d7a725958`
+- ZIP CRC: PASS, 96 entries
+- SHA manifest: PASS, 95/95 entries
+- Public release manifest: PASS, 94/94 payload entries
+- All 56 shared scientific CSV/JSON/PNG files are byte-identical to V04R1.
+- All 16 shared Python files have identical abstract syntax trees.
+
+The earlier separate-permission HOLD was overstated. CC BY-NC-SA 4.0 permits
+compliant noncommercial sharing/adaptation; its attribution, NonCommercial and
+ShareAlike conditions are preserved for the SlimPark-derived components.
+The source's consultation request remains documented, but no consultation or
+endorsement is claimed. Commercial downstream reuse is not pre-cleared.
+
+The draft preview verifies the approved creator order: Ghassan Malkawi,
+Ahmed Elsayed, Mohammed Alhagyan, Bakeel Hussein. The three licence labels
+are accompanied by explicit component scopes. Main and Supplement have not
+been patched with an unpublished DOI. R6R8 remains the scientific baseline.

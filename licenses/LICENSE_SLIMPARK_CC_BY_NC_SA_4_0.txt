@@ -1,0 +1,15 @@
+SlimPark-derived components identified in COMPONENT_LICENSE_MAP.csv retain
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
+
+For material and rights covered by the licence, retain source attribution and
+modification notices, use it for noncommercial purposes, and distribute protected
+adaptations under CC BY-NC-SA 4.0 or an officially compatible licence.
+No endorsement is implied. Material is supplied as-is and as-available under
+the source licence's warranty disclaimer and limitation of liability.
+
+See SLIMPARK_ATTRIBUTION_AND_NOTICE.md for the source citation, changes,
+consultation request, and exact scope. Original software remains MIT and
+unrelated author-original documentation retains CC BY 4.0.

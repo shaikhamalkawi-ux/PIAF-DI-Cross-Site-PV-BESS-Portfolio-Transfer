@@ -1,0 +1,7 @@
+path,licence,scope,attribution
+reproducibility/reference/derived/slimpark_admission_support.csv,CC-BY-NC-SA-4.0,"SlimPark-derived output; applicable copyright/database rights",licenses/SLIMPARK_ATTRIBUTION_AND_NOTICE.md
+reproducibility/reference/derived/slimpark_candidate_quantiles.csv,CC-BY-NC-SA-4.0,"SlimPark-derived output; applicable copyright/database rights",licenses/SLIMPARK_ATTRIBUTION_AND_NOTICE.md
+reproducibility/reference/derived/slimpark_candidate_responses.csv,CC-BY-NC-SA-4.0,"SlimPark-derived output; applicable copyright/database rights",licenses/SLIMPARK_ATTRIBUTION_AND_NOTICE.md
+reproducibility/reference/derived/slimpark_primary_results.csv,CC-BY-NC-SA-4.0,"SlimPark-derived output; applicable copyright/database rights",licenses/SLIMPARK_ATTRIBUTION_AND_NOTICE.md
+reproducibility/reference/derived/slimpark_source_qa.json,CC-BY-NC-SA-4.0,"SlimPark-derived output; applicable copyright/database rights",licenses/SLIMPARK_ATTRIBUTION_AND_NOTICE.md
+reproducibility/reference/definitions/headline_reported_values.csv,CC-BY-4.0 AND CC-BY-NC-SA-4.0,"Rows where family_or_target is SlimPark all9 native: CC-BY-NC-SA-4.0; other author-owned contributions: CC-BY-4.0",licenses/SLIMPARK_ATTRIBUTION_AND_NOTICE.md
