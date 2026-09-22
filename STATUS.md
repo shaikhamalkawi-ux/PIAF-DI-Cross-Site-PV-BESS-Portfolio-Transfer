@@ -33,7 +33,7 @@ No new scientific version is justified unless a reproducible source/model/numeri
 - PDF references/fonts/all-page visual QA: PASS (zero Type 3 fonts)
 - Final clean-room package integrity: PASS
 - Scientific/reproducibility blockers: **NONE**
-- Remaining closure items: return upload verification and independent/author-controlled submission review
+- Remaining closure items: independent/author-controlled submission review
 - Public archive V04R2 component-licence correction: PASS
 - V04R2 science parity, ZIP CRC, and complete SHA manifests: PASS
 - V04R2 clean global replay: PASS (1,317 rows / 507 MILP / 342 enumeration)
@@ -44,6 +44,7 @@ No new scientific version is justified unless a reproducible source/model/numeri
 - V05 published-DOI-only rebuild: PASS, 32/12/44 pages, no Type 3 fonts, no overfull or undefined references/citations
 - V05 source/numeric parity and all-page visual review: PASS
 - Exact returned V05 source ZIP clean-extracted compile: PASS, pagewise text parity on all 44 pages
+- V05 Drive return: 14 files uploaded to `03_CODEX_RETURN_INBOX`; UI completion and connector size readback PASS
 - JEST submission-ready label: pending independent review and author-controlled closure
 
 ## Recovered authoritative machine evidence
@@ -91,3 +92,17 @@ The Supplement's non-fatal line-193 glue-shrinkage diagnostic is reproduced
 by the unchanged V05 baseline and documented in controlled QA. All affected
 pages are visually clean; this is not a zero-warning claim. The original
 funding/APC statement is preserved, not newly approved by Codex.
+
+## Controlled V05 return
+
+Master: `PIAF_DI_PaperB_R6R8_JEST_New_Page_Transfer_V05_DOI_20260922.zip`
+
+- Bytes: 11,768,518
+- SHA-256: `5d426b0536ef1e19ba6394849d6d264782c2c56a37adb33a3312c02c078c1caa`
+- Submission ZIP SHA-256: `446b1f3f53c099f04e18141135c618b95e577c4c758de72ead8412d09fa4a76f`
+- Source ZIP SHA-256: `924f3d13b0c764c3a9217b2221f68726a53ff272ef7d99526dc3111095f0dc31`
+
+Source, PDFs, support documents, QA evidence and fresh manifests are in the
+controlled Drive return. Existing returns were retained; no sharing changes
+were made. Final independent/author review is still required before declaring
+the manuscript submission-ready. No journal submission was performed.
